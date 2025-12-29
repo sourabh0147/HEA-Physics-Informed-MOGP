@@ -10,7 +10,7 @@ This repository contains the Jupyter Notebooks and analysis code for the manuscr
 | `MOGP_asset_creation.ipynb` | Implementation of the Multi-Output Gaussian Process (MOGP) architecture. |
 | `digital_twin_files.py` | python file of the Digital_twin_files.ipynb used for auditing the codes. |
 | `Figure_2.ipynb` | Visualizes the 3D physics embedding space by plotting material properties (density, conductivity, specific heat) relative to an interpolation centroid. |
-| `Figure_5.ipynb` | generate a comprehensive "Data Validity & Sensitivity Report |
+| `Figure_5.ipynb` | generate a comprehensive "Data Validity & Sensitivity Report" |
 | `Figure_6.ipynb` | implements a Multi-Output Gaussian Process (MOGP) using GPyTorch to model manufacturing outputs with uncertainty quantification |
 | `Figure_8.ipynb` | performs a statistical correlation analysis on the raw experimental outputs and visualizes their inter-dependencies using a labeled Pearson correlation heatmap. |
 | `Figure_9.ipynb` | executes a rigorous 5-fold cross-validation benchmark to compare the predictive accuracy ($R^2$) of Multi-Output Gaussian Processes and Stacking Ensembles against standard ML models. |
